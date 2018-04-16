@@ -1,0 +1,3 @@
+[submodule "Eagle/lbr"]
+	path = Eagle/lbr
+	url = https://github.com/stefanolazzarato/eagle-libraries.git
